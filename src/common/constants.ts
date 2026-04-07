@@ -25,7 +25,7 @@ export interface Barcode {
 export const APIConstants = {
 	TOKEN: 'https://accounts.zoho.in/oauth/v2/token',
 	BOOKS: 'https://www.zohoapis.in/books/v3',
-	REDIRECT_URI: 'https://laxmihandloom.github.io/Small-Barcode-Printer',
+	REDIRECT_URI: 'https://laxmihandloom.github.io/Small-Barcode-Printer/',
 	AUTH: 'https://accounts.zoho.in/oauth/v2/auth',
 	REFRESH: 'https://accounts.zoho.in/oauth/v2/auth/refresh',
 };
